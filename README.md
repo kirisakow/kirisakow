@@ -12,6 +12,8 @@
         - https://github.com/kirisakow/url_tools
     - Excel Art: replicate any image as a spreadsheet, by colouring each cell as the corresponding pixel:
         - https://gitlab.com/kirisakow/excel_art
+    - Telegram bots:
+        - https://github.com/kirisakow/telegram_bots
 - 🌱 I’m currently learning
     - Go and Python
 - 👯 I’m looking to collaborate on
