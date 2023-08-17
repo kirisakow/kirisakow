@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning
-    - Data engineering: see the [data engineering course](https://github.com/kirisakow/formation-data-engineer-m2i)
+    - Data engineering: see the [data engineering course](https://github.com/kirisakow/formation-data-engineer-m2i) repository
 - 🔭 I’m currently working on
     - Morse decoder & encoder:
         - https://github.com/kirisakow/morse_decoder_encoder
