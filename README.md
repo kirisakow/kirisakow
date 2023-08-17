@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning
+    - Data engineering: see the [data engineering course](https://github.com/kirisakow/formation-data-engineer-m2i)
 - 🔭 I’m currently working on
     - Morse decoder & encoder:
         - https://github.com/kirisakow/morse_decoder_encoder
@@ -17,13 +19,11 @@
         - https://gist.github.com/kirisakow/82957128a78d1cd67432b0971621914d
     - Other gists:
         - https://gist.github.com/kirisakow
-- 🌱 I’m currently learning
-    - Go and Python
 - 👯 I’m looking to collaborate on
     - a Django project
     - a machine learning project
 - 🤔 I’m looking for help with
-    - Making importable libraries for Python and Go. Currently reading https://python-packaging-tutorial.readthedocs.io
+    - Making importable libraries for Python and Go. The [official documentation](https://python-packaging-tutorial.readthedocs.io) is somewhat elusive to me.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
