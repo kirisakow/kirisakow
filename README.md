@@ -15,8 +15,11 @@
         - https://gitlab.com/kirisakow/excel_art
     - Telegram bots:
         - https://github.com/kirisakow/telegram_bots
-    - A JavaScript user script to declutter a webpage by telling which elements you want to leave visible:
-        - https://gist.github.com/kirisakow/82957128a78d1cd67432b0971621914d
+    - A few JavaScript userscripts for the Firefox add-on [Greasemonkey](https://wiki.greasespot.net/Greasemonkey):
+        - A script to declutter any webpage by telling which elements you want to leave visible:
+            - https://gist.github.com/kirisakow/82957128a78d1cd67432b0971621914d
+        - A script for hotmixradio.com that forces an update of the currently played song's info:
+            - https://gist.github.com/kirisakow/62f6fd669cf52a6fe174717ae2cbca2f
     - Other gists:
         - https://gist.github.com/kirisakow
 - 👯 I’m looking to collaborate on
