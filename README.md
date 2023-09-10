@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning
-    - [Data engineering course](https://github.com/kirisakow/formation-data-engineer-m2i) (March — 1st September 2023)
 - 🔭 I’m currently working on
     - Morse decoder & encoder:
         - https://github.com/kirisakow/morse_decoder_encoder
@@ -22,6 +20,8 @@
             - https://gist.github.com/kirisakow/62f6fd669cf52a6fe174717ae2cbca2f
     - Other gists:
         - https://gist.github.com/kirisakow
+- 🌱 I’m currently learning
+    - recently completed: a [data engineering course](https://github.com/kirisakow/formation-data-engineer-m2i) (March — 1st September 2023)
 - 👯 I’m looking to collaborate on
     - a Django project
     - a machine learning project
