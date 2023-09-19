@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on
+    - Live API server with various text conversion tools, powered by Python and FastAPI:
+        - https://github.com/kirisakow/api-py
+    - Live API server for decoding URLs, powered by Go and Gin:
+        - https://github.com/kirisakow/api-go
     - Morse decoder & encoder:
         - https://github.com/kirisakow/morse_decoder_encoder
     - A brute-force disentangler to fix legacy character encodings like Latin-1 (Windows-1252 or ISO 8859-1), available as both a self-hosted web service and as a library, and which supports as many encodings as Python itself:
