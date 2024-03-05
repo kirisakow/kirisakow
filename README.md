@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on
+    - GPT-like toy NLP AI model in Pytorch, based on transformers and attention:
+        - https://colab.research.google.com/drive/1guEjOhH50DwzNnldFJSUInKmISv1Scog
     - Live API server with various text conversion tools, powered by Python and FastAPI:
         - https://github.com/kirisakow/api-py
     - Live API server for decoding URLs, powered by Go and Gin:
