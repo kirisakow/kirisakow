@@ -9,10 +9,12 @@
         - https://github.com/kirisakow/api-go
     - Morse decoder & encoder:
         - https://github.com/kirisakow/morse_decoder_encoder
-    - A brute-force disentangler to fix legacy character encodings like Latin-1 (Windows-1252 or ISO 8859-1), available as both a self-hosted web service and as a library, and which supports as many encodings as Python itself:
+    - A brute-force disentangler to fix legacy character encodings like Latin-1 (Windows-1252 or ISO 8859-1), available as both a self-hosted web service and as a library (albeit still not published on PyPI), and which supports as many encodings as Python itself:
         - https://github.com/kirisakow/whatever_disentangler
     - COVID Vaccination Certificate QR code decoder:
         - https://github.com/kirisakow/covid-certificate-qr-decoder
+    - A video walkthrough of two BASH labs, recorded for my co-eds during the lockdown (in French):
+        - https://www.youtube.com/playlist?list=PL9fSl95JfzxZ2cGihVebuWvYczsUSpsIj
     - A few tools to work with URLs (`url_clean`, `url_extract`, `url_deref`, `url_unescape`), written in BASH, Go, and Python:
         - https://github.com/kirisakow/url_tools
     - Excel Art: replicate any image as a spreadsheet, by colouring each cell in the color of the corresponding pixel:
