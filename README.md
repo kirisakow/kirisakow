@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on
     - GPT-like toy NLP AI model in Pytorch, based on transformers and attention:
         - https://colab.research.google.com/drive/1guEjOhH50DwzNnldFJSUInKmISv1Scog
-    - Real-time object detection in webcam stream using Ultralytics YOLOv8:
+    - Real-time object detection in webcam video stream, using Ultralytics YOLOv8:
         - https://colab.research.google.com/drive/1_AcrCrugvfm4v36-ig3sJ0qWliNIFyH9
     - Live API server with various text conversion tools, powered by Python and FastAPI:
         - https://github.com/kirisakow/api-py
