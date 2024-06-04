@@ -10,7 +10,7 @@
     - Live API server for decoding URLs, powered by Go and Gin:
         - https://github.com/kirisakow/api-go
     - A brute-force disentangler to fix legacy character encodings like Latin-1 (Windows-1252 or ISO 8859-1), available as both a self-hosted web service and as a library (albeit not yet published on PyPI), and which supports as many encodings as Python itself:
-        - https://github.com/kirisakow/whatever_disentangler
+        - https://github.com/kirisakow/whatever-disentangler
     - COVID Vaccination Certificate QR code decoder:
         - https://github.com/kirisakow/covid-certificate-qr-decoder
     - A video walkthrough of two BASH labs, recorded for my co-eds during the lockdown (in French):
@@ -22,7 +22,7 @@
     - Telegram bots:
         - https://github.com/kirisakow/telegram_bots
     - Morse decoder & encoder:
-        - https://github.com/kirisakow/morse_decoder_encoder
+        - https://github.com/kirisakow/morse-decoder-encoder
     - A few JavaScript userscripts for the Firefox add-on [Greasemonkey](https://wiki.greasespot.net/Greasemonkey):
         - A script to declutter any webpage by telling which elements you want to leave visible:
             - https://gist.github.com/kirisakow/82957128a78d1cd67432b0971621914d
